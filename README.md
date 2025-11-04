@@ -25,32 +25,8 @@
 
 ## 🧭 Enlace del sitio
 
-🔗 **GitHub Pages:**  
-👉 [https://jacobo-forero.github.io/FULL-SERVICES/](https://jacobo-forero.github.io/FULL-SERVICES/)
-
----
-
-## 🛠️ Desarrollado con
-
-<div align="left">
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![EmailJS](https://img.shields.io/badge/EmailJS-2C2C2C?style=for-the-badge&logo=maildotru&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
----
-## ⚙️ Funcionalidades
-
-✅ Sección principal con **carrusel dinámico**.  
-✅ Páginas de **servicios con modales** y enlaces personalizados.  
-✅ Formularios de **contacto y trabajo** conectados con **EmailJS**.  
-✅ Soporte **multilenguaje (Español / Inglés)**.  
-✅ Diseño **responsivo y optimizado**.  
-✅ Enlaces directos a **WhatsApp y redes sociales**.
+🔗 **cPanel:**  
+👉 [fullservices.com.co)
 
 ---
 
@@ -65,7 +41,6 @@ Desarrollo y diseño web por **JACOBO FORERO**
 
 ## 🧾 Licencia
 
-Este proyecto es propiedad de **S&J FULL SERVICES S.A.S**  
 © 2025 — Todos los derechos reservados.  
 Prohibida la reproducción o redistribución sin autorización escrita.
 
